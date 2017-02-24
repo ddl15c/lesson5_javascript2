@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+February 24, 2017
 
 ### Student Name:  
-(First and Last Name)
+Demarco Lockhart
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Created a Tax calculation tool using javascript and control statements.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://ddl15c.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Control Statements
+2. Boolean Expressions
+3. Building array objects
